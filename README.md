@@ -15,4 +15,4 @@ Some other practicalities:
 - I run this script with `REMOTE_NODE_DOMAIN="<IP_ADDR>" rake -f _plugins/ipfs_deploy.rake`
 - `rake` and `rake-remote_task` are needed in order to run this
 
-[More details on how I introduced this to my site](https://github.com/marionzualo/www/commit/54ee4b6f0716709bfee5784ee6c18b561c1c1ba0)
+[More details on how I this is used in my site](https://github.com/marionzualo/www/commit/54ee4b6f0716709bfee5784ee6c18b561c1c1ba0)
