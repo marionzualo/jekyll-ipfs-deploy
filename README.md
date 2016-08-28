@@ -1,5 +1,5 @@
 # jekyll-ipfs-deploy
-A set of rake tasks that deploys a Jekyll site to IPFS.
+A set of rake tasks (present in `ipfs_deploy.rake`) that deploys a Jekyll site to IPFS.
 
 I was inspired to create this script after reading:
 - [Serving a website over IPFS](http://www.atnnn.com/p/ipfs-hosting/)
